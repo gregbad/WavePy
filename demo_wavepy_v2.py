@@ -1,4 +1,7 @@
 """
+Changes made by Greg Badura, © 2019 Georgia Tech Research Corporation, 7/16/2019
+
+
 This function runs a demo time series simulation in the directory where the files exist. It goes through all three steps
 of the wavepy_v2 flow: optimizing the sampling constraints, running the turbulence simulation, and evaluating the
 results. The time of the simulation is quite short, but this code will still take on the order of 2 minutes to run. In

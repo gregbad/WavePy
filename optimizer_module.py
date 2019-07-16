@@ -1,7 +1,9 @@
 """
+
+Changes made by Greg Badura, © 2019 Georgia Tech Research Corporation, 7/16/2019
+
 Created on 5/7/2019
 
-@author: gbadura3-gtri
 """
 
 import numpy as np

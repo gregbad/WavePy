@@ -1,3 +1,9 @@
+"""
+
+Changes made by Greg Badura, © 2019 Georgia Tech Research Corporation, 7/16/2019
+
+"""
+
 import numpy as np
 import yaml
 import scipy.ndimage

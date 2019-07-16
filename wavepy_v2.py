@@ -1,5 +1,6 @@
 """
-Modified code by Greg Badura and Cody Fernandez of GTRI.
+
+Changes made by Greg Badura and Cody Fernandez, © 2019 Georgia Tech Research Corporation, 7/16/2019
 
 Updates include:
 - Correction for propagation plane sampling at the locations of the phase screens
